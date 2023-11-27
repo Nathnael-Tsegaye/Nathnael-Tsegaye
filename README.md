@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" > I am Nathnael Tsegaye!
 
+Greetings! I am a dedicated fourth-year software engineering student at Wolkite University, with a fervent enthusiasm for technology and a particular passion for space exploration. Eager to continuously expand my knowledge, I am on a perpetual journey of learning and growth. Throughout my academic pursuits, I have honed my software engineering skills, and now I am poised to apply my expertise to innovative projects. My GitHub repository is a curated space where I showcase my commitment to crafting code that is both ingenious and purposeful. Join me in exploring the intersection of software engineering and the cosmos, as we collaboratively embark on a journey of learning, creation, and inspiration. 🚀✨ #SoftwareEngineer #SpaceExplorer #InnovationDriven
 <!--
 **Nathnael-Tsegaye/Nathnael-Tsegaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
