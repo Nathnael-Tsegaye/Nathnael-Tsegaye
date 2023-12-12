@@ -21,12 +21,6 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
       </a>
@@ -38,11 +32,6 @@ Here are some ideas to get you started:
       </a>
       <br>JavaScript
     </td>
-    <td align="center">
-      <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
-      </a>
-      <br>jQuery
     </td>
     <td align="center">
       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
@@ -62,12 +51,6 @@ Here are some ideas to get you started:
       </a>
       <br>Redux
     </td>
-    <td align="center">
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-      </a>
-      <br>C#
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -82,11 +65,6 @@ Here are some ideas to get you started:
       </a>
       <br>MySQL
     </td>
-    <td align="center">
-      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-      </a>
-      <br>PostgreSQL
     </td>
     <td align="center">
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -94,17 +72,6 @@ Here are some ideas to get you started:
       </a>
       <br>Figma
     </td>
-    <td align="center">
-      <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
-      </a>
-      <br>Photoshop
-    </td>
-    <td align="center">
-      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
-      </a>
-      <br>Laravel
     </td>
     <td align="center">
       <a href="https://www.java.com/" target="_blank" rel="noreferrer">
@@ -118,11 +85,29 @@ Here are some ideas to get you started:
       </a>
       <br>C++
     </td>
+      <td align="center">
+      <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+      </a>
+      <br>Flutter
+    </td>
   </tr>
 </table>
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Nathnael-Tsegaye's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nathnael-Tsegaye&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+<h3 align="left">Status and Used Languages:</h3>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 20px;">
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Nathnael-Tsegaye&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nathnael's GitHub Stats" width="45%" />
+    </p>
+  </div>
+  <div style="flex: 1; margin-right: 20px;">
+    <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathnael-Tsegaye&theme=radical&hide_border=true" alt="Natnael's GitHub Streak" width="45%" />
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathnael-Tsegaye&layout=compact&theme=radical&hide_border=true" alt="Natnael's Top Languages" width="45%" />
+    </p>
+  </div>
+</div>
