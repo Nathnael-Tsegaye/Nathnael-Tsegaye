@@ -94,4 +94,15 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api?username=Nathnael-Tsegaye&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nathnael's GitHub Stats" width="45%" />
     </p>
   </div>
+  <div style="flex: 1; margin-right: 20px;">
+    <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathnael-Tsegaye&theme=radical&hide_border=true" alt="Natnael's GitHub Streak" width="45%" />
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathnael-Tsegaye&layout=compact&theme=radical&hide_border=true" alt="Natnael's Top Languages" width="45%" />
+    </p>
+  </div>
+</div>
  
