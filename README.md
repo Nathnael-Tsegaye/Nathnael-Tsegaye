@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Skills -->
-<h3 align="left">Skills:</h3>
+<h3 align="left">Skills :</h3>
 <p align="left"> 
 <table align="center">
   <tr>
@@ -54,12 +54,6 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
       </a>
@@ -93,21 +87,11 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-<h3 align="left">Status and Used Languages:</h3>
+<h3 align="left">Status :</h3>
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 20px;">
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Nathnael-Tsegaye&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nathnael's GitHub Stats" width="45%" />
     </p>
   </div>
-  <div style="flex: 1; margin-right: 20px;">
-    <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathnael-Tsegaye&theme=radical&hide_border=true" alt="Natnael's GitHub Streak" width="45%" />
-    </p>
-  </div>
-  <div style="flex: 1;">
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathnael-Tsegaye&layout=compact&theme=radical&hide_border=true" alt="Natnael's Top Languages" width="45%" />
-    </p>
-  </div>
-</div>
+ 
